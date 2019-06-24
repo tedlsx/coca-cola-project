@@ -1,2 +1,2 @@
-def cheer(param):
+def cheer(param= 'en):
     print(param)
