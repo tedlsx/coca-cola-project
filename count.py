@@ -1,5 +1,5 @@
-def count(month):
-    print(month)
+def count(param):
+    print(f"Counting the countless {param}")
 
 count(6)
 
